@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub stars](https://img.shields.io/github/stars/asesoft?style=social)
-![visitors](https://img.shields.io/badge/dynamic/json?
+![visitors](https://img.shields.io/badge/dynamic/json?)
 
 .. image:: https://img.shields.io/github/followers/asesoft?style=social   :alt: GitHub followers
 https://img.shields.io/github/followers/asesoft?style=social
