@@ -2,7 +2,8 @@
 
 <!--
 **asesoft/asesoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/asesoft?style=social">
+![GitHub stars](https://img.shields.io/github/stars/asesoft?style=social)
+### <img alt="GitHub followers" src="https://img.shields.io/github/followers/asesoft?style=social">
 
 Here are some ideas to get you started:
 
