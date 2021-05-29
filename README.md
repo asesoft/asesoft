@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 .. image:: https://img.shields.io/github/followers/asesoft?style=social   :alt: GitHub followers
 https://img.shields.io/github/followers/asesoft?style=social
+image:https://img.shields.io/github/followers/asesoft?style=social[GitHub followers]
